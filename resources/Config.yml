@@ -1,0 +1,7 @@
+#Here you can edit the message join and color and you can edit permession for then
+
+vip.msg: "{name} joined"
+vipplus.msg: "{name} joined"
+mvpplus.msg: "{name} joined"
+mvpplusplus.msg: "{name} joined"
+youtube.msg: "§4[§fYOUTUBE§4]§f {name} Joined The Lobby !"
