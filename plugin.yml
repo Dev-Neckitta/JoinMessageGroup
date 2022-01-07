@@ -1,0 +1,7 @@
+name: JoinMessageGroup
+author: Neckitta <\>
+main: msggroup\main
+version: 1.0.0
+api: 3.0.0
+depend: PurePerms
+description: JoinMessageGroup by Neckitta <\>
