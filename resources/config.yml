@@ -9,6 +9,6 @@ list:
   quit: "{name} quit"
  Youtube:
   permission: "youtube.msg"
-  join: "§4[§fYOUTUBE§4]§f {name} Joined The Lobby !"
-  quit: "§4[§fYOUTUBE§4]§f {name} Leaved The Lobby !"
+  join: "§f[§4YOUTUBE§4]§4 {name} Joined The Lobby !"
+  quit: "§f[§4YOUTUBE§4]§4 {name} Leaved The Lobby !"
 ...
