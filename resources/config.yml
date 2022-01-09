@@ -1,0 +1,14 @@
+---
+# Here you can edit the message join and color and you can edit permession for then
+
+# Tag on Message {name} for name player
+list:
+ VIP:
+  permission: "vip.msg"
+  join: "{name} joined"
+  quit: "{name} quit"
+ Youtube:
+  permission: "youtube.msg"
+  join: "§4[§fYOUTUBE§4]§f {name} Joined The Lobby !"
+  quit: "§4[§fYOUTUBE§4]§f {name} Leaved The Lobby !"
+...
