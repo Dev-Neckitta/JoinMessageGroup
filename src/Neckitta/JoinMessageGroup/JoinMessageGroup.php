@@ -1,14 +1,14 @@
 <?php
 
-namespace Neckitta\JoinMessageGroup;
+namespace Neckitta\JoinMessagePerm;
 
-use pocketmine\event\Listener;
-use pocketmine\event\player\{PlayerJoinEvent, PlayerQuitEvent};
-use pocketmine\{Player, Server};
+use pocketmine\player\Player;
 use pocketmine\plugin\PluginBase;
-use pocketmine\utils\Config;
+use pocketmine\event\Listener;
 
-class JoinMessageGroup extends PluginBase implements Listener{
+use pocketmine\event\player\{PlayerJoinEvent, PlayerQuitEvent};
+
+class JoinMessagePerm extends PluginBase implements Listener{
 
 	public function onEnable(): void{
 		$this->saveResource("config.yml");
