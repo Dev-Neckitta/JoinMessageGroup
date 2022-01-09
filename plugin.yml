@@ -1,7 +1,8 @@
-name: JoinMessageGroup
-author: Neckitta <\>
-main: msggroup\main
+name: JoinMessagePerm
+authors:
+ - Neckitta
+ - MulqiGaming64
+main: Neckitta\JoinMessagePerm\JoinMessagePerm
 version: 1.0.0
 api: 3.0.0
-depends: PurePerms
-description: JoinMessageGroup by Neckitta <\>
+description: JoinMessagePerm by Neckitta <\>
