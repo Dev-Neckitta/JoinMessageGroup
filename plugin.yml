@@ -1,5 +1,7 @@
 name: JoinMessageGroup
-authors:Neckitta <\>
+authors:
+- Neckitta <\>
+- MulqiGaming64
 main: Neckitta\JoinMessageGroup\JoinMessageGroup
 version: 1.0.0
 api: 3.0.0
