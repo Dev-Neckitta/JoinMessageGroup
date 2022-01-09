@@ -10,7 +10,7 @@ use pocketmine\event\player\{PlayerJoinEvent, PlayerQuitEvent};
 
 class JoinMessagePerm extends PluginBase implements Listener{
 
-	public function onEnable(): void{ //
+	public function onEnable(): void{ 
 		$this->saveResource("config.yml");
 		$this->getServer()->getPluginManager()->registerEvents($this, $this);
 	}
