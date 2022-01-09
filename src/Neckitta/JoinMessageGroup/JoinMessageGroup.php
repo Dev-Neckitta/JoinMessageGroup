@@ -10,7 +10,7 @@ use pocketmine\utils\Config;
 
 class JoinMessageGroup extends PluginBase implements Listener{
 
-	public function onEnable(): void{ //
+	public function onEnable(): void{ 
 		$this->saveResource("config.yml");
 		$this->getServer()->getPluginManager()->registerEvents($this, $this);
 	}
