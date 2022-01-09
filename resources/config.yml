@@ -1,7 +1,7 @@
 ---
-# Here you can edit the message join and color and you can edit permession for then
+# Here you can edit the message join and color and you can edit permession for then !
 
-# Tag on Message {name} for name player
+# Tag on Message {name} for name player !
 list:
  VIP:
   permission: "vip.msg"
