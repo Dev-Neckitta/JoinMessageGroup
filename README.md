@@ -1,5 +1,3 @@
-# JoinMessageGroup
-
 A simple plugin for the Join message rank 
 Any one can use this plugin but he depend a purepermes and purechat 
 
